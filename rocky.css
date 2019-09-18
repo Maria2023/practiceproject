@@ -1,0 +1,22 @@
+h1 {
+    text-decoration: blue
+
+}
+h2{background-color: cornflowerblue}
+biobox {
+    align: left;
+    text-align:none;
+    display: inline;
+}
+
+#biolist { 
+    float: right;
+}biobox {
+    align: left;
+    text-align:none;
+    display: inline;
+}
+
+#biolist { 
+    float: right;
+}
